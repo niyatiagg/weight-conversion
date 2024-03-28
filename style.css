@@ -1,0 +1,73 @@
+body{
+  margin-top: 100px;
+  text-align:center;
+  
+}
+
+
+h1 {
+  padding-bottom: 0.5rem;
+  font-family: "Georgia", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+input[type=number] {
+  cursor: pointer;
+}
+
+#input-kilogram, #input-ounce, body{
+  background-image: url('annie-spratt-0ZPSX_mQ3xI-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+#input-kilogram{
+  font-size: 2rem;
+  font-family: "Georgia", sans-serif;
+  font-style: italic;
+}
+
+#input-pound{
+  background-color: #16BAC5;
+  font-size: 2rem;
+  font-family: "Georgia", sans-serif;
+  font-style: italic;
+}
+
+#input-ounce{
+  font-size: 2rem;
+  font-family: "Georgia", sans-serif;
+  font-style: italic;
+}
+
+.form-padding {
+  padding: 2rem 1rem;
+}
+
+::-webkit-input-placeholder {
+  color: #FFFFFF !important;
+}
+::-moz-placeholder {
+  color: #FFFFFF !important;
+}
+:-ms-input-placeholder {
+  color: #FFFFFF !important;
+}
+:-moz-placeholder {
+  color: #FFFFFF !important;
+}
+
+footer{
+  padding-top: 3rem;
+  font-size: 0.8rem;
+  line-height: 0.2rem;
+  text-align:center;
+  font-family: "Georgia", sans-serif;
+}
+
+.icons{
+  max-width: 25px;
+  height: auto;
+}
